@@ -1,0 +1,1 @@
+/home/diamondpunk/.fzf/shell/key-bindings.fish
